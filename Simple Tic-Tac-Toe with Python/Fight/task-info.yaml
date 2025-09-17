@@ -1,0 +1,21 @@
+type: edu
+custom_name: Fight!
+files:
+  - name: tictactoe.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/73/stages/403/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 17 Sep 2025 20:59:28 UTC"
+record: 5

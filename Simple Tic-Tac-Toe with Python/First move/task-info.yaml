@@ -1,0 +1,21 @@
+type: edu
+custom_name: First move!
+files:
+  - name: tictactoe.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/73/stages/402/implement#comment
+status: Failed
+feedback:
+  message: "Wrong answer in test #1"
+  time: "Wed, 17 Sep 2025 20:54:45 UTC"
+record: 4

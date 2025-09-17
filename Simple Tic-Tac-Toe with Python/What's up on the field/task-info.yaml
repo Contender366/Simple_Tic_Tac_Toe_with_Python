@@ -1,0 +1,21 @@
+type: edu
+custom_name: What's up on the field?
+files:
+  - name: tictactoe.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/73/stages/401/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 17 Sep 2025 13:03:14 UTC"
+record: 3
